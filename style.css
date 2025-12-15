@@ -1,4 +1,13 @@
 h1 {
-    font-family: cursive;
-    font-size: 4rem;
+    font-size: 5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-shadow:
+        0 0 5px hwb(24 7% 9%),
+        0 0 10px hwb(24 7% 9%),
+        0 0 20px hwb(24 7% 9%),
+        0 0 40px hwb(24 7% 9%),
+        0 0 80px hwb(24 7% 9%),
+        0 0 100px hwb(24 7% 9%);
+
 }
