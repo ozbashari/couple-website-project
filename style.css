@@ -17,15 +17,13 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     padding: 20px;
-<<<<<<< HEAD
     background-color: aquamarine;
-=======
 }
 
-#moveBtn {
-    position: relative;
+#try {
+    position: absolute;
+    /* Needed so we can move it */
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 18px;
     cursor: pointer;
->>>>>>> 6545ae678193b15e700d992102af2877dcd4e8c6
 }
