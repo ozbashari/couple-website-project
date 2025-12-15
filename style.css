@@ -31,3 +31,22 @@ body {
     left: 100px;
     /* starting position */
 }
+
+#moveBtn {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+
+    text-shadow:
+        0 0 5px hwb(207 22% 11%),
+        0 0 10px hwb(209 0% 29%),
+        0 0 20px hwb(214 0% 14%),
+        0 0 40px hwb(244 3% 25%),
+        0 0 80px hwb(239 7% 9%);
+
+}
