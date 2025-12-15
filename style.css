@@ -11,5 +11,14 @@ h1 {
         0 0 40px hwb(24 7% 9%),
         0 0 80px hwb(24 7% 9%);
 
+<<<<<<< HEAD
     animation: glow 2s ease-in-out infinite alternate;
+=======
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+>>>>>>> 0d139ccc1ec5fde943932cbe617a9e8955da9334
 }
