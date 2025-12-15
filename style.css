@@ -11,3 +11,9 @@ h1 {
         0 0 100px hwb(24 7% 9%);
 
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
