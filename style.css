@@ -17,7 +17,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     padding: 20px;
-    background-color: aquamarine;
+    background-color: rgb(236, 255, 127);
 }
 
 #try {
@@ -48,5 +48,21 @@ body {
         0 0 20px hwb(214 0% 14%),
         0 0 40px hwb(244 3% 25%),
         0 0 80px hwb(239 7% 9%);
+
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f0e0ad;
+    text-align: center;
+
+    text-shadow:
+        0 0 5px hwb(210 0% 97%),
+        0 0 10px hwb(210 9% 85%),
+        0 0 20px hwb(215 12% 83%),
+        0 0 40px hwb(243 15% 77%),
+        0 0 80px hwb(236 14% 81%);
+
 
 }
